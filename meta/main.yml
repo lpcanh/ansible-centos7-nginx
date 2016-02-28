@@ -1,8 +1,9 @@
 ---
 galaxy_info:
   author: Le Phuoc Canh
-  description: 
+  description: Install latest nginx for centos 7, using for Le Nguyen's projects
   company: Le Nguyen
+  license: license (GPLv2, CC-BY, etc)
   github_branch: master
   min_ansible_version: 1.9
 
@@ -13,5 +14,4 @@ galaxy_info:
   galaxy_tags:
     - nginx
     - centos7
-  dependencies: []
-  
+dependencies: []
